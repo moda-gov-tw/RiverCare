@@ -1,0 +1,20 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:moda-gov-tw/RiverCare-Frontend.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = git@github.com:moda-gov-tw/RiverCare-Backend.git
+	branch = main
+[submodule "smart-contracts"]
+	path = smart-contracts
+	url = git@github.com:moda-gov-tw/RiverCare-SmartContracts.git
+	branch = main
+[submodule "indexer"]
+	path = indexer
+	url = git@github.com:moda-gov-tw/RiverCare-Indexer.git
+	branch = main
+[submodule "storyteller"]
+	path = storyteller
+	url = git@github.com:moda-gov-tw/river-storyteller.git
+	branch = main
